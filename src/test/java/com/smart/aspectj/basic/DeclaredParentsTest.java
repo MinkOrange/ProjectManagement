@@ -15,8 +15,10 @@ public class DeclaredParentsTest {
         Waiter waiter = (Waiter)ctx.getBean("waiter");
         waiter.greetTo("John");
         waiter.serveTo("John");                     //添加serveTo()方法的测试
-        waiter.greetTo("Tom");                                                   //未写完测试code   //现已写完
-        Assert.assertTrue(false);                                       //添加一个让测试失败的断言
+      //  waiter.gr                                               //未写完测试code
+        waiter.greetTo("Tom");                      //已写完测试code
+    //    Assert.assertTrue(false);                               //添加一个让测试失败的断言
+        Assert.assertTrue(true);                      //添加一个让测试成功的断言
         Seller seller = (Seller)waiter;
         seller.sell("Beer","John");
     }
