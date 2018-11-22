@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d3f6efb-ace9-448f-8cd8-8b341b19f61a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -33,11 +30,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeclaredParentsTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DeclaredParentsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="17" column="101" selection-start-line="17" selection-start-column="101" selection-end-line="17" selection-end-column="101" />
+            <state relative-caret-position="225">
+              <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -45,11 +42,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="105" column="40" lean-forward="true" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
+            <state relative-caret-position="1392">
+              <caret line="93" column="40" lean-forward="true" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
             </state>
           </provider>
         </entry>
@@ -110,8 +107,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/com/smart/aspectj/fun/beans.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/smart/aspectj/fun/PointcutFunTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smart/NaughtyWaiter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java" />
       </list>
     </option>
   </component>
@@ -332,7 +329,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.DeclaredParentsTest.parent">
+  <component name="RunManager" selected="TestNG.DeclaredParentsTest">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -528,10 +525,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.DeclaredParentsTest" />
         <item itemvalue="TestNG.DeclaredParentsTest.parent" />
         <item itemvalue="TestNG.PointcutFunTest" />
         <item itemvalue="TestNG.ToolTest" />
-        <item itemvalue="TestNG.DeclaredParentsTest" />
         <item itemvalue="TestNG.AspectConfigTest" />
       </list>
     </recent_temporary>
@@ -547,14 +544,11 @@
       <option name="presentableId" value="Default" />
       <updated>1531101247055</updated>
       <workItem from="1531101250256" duration="13357000" />
-      <workItem from="1542810180376" duration="7816000" />
+      <workItem from="1542810180376" duration="8435000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DeclaredParentsTest - 2018.07.09 at 15h 19m 32s.xml">
-      <configuration name="DeclaredParentsTest" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="DeclaredParentsTest - 2018.07.09 at 15h 20m 46s.xml">
       <configuration name="DeclaredParentsTest" configurationId="TestNG" />
     </history-entry>
@@ -582,9 +576,12 @@
     <history-entry file="DeclaredParentsTest_parent - 2018.11.22 at 09h 36m 15s.xml">
       <configuration name="DeclaredParentsTest.parent" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="DeclaredParentsTest_parent - 2018.11.22 at 11h 10m 32s.xml">
+      <configuration name="DeclaredParentsTest.parent" configurationId="TestNG" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21173000" />
+    <option name="totallyTimeSpent" value="21792000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -611,7 +608,7 @@
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3295129" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
       <window_info anchor="bottom" id="Spring" order="7" weight="0.3295129" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3295129" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23726542" />
@@ -804,16 +801,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/NaiveWaiter.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1392">
+          <caret line="93" column="40" lean-forward="true" selection-start-line="93" selection-start-column="40" selection-end-line="93" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/Seller.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
-          <folding>
-            <element signature="e#108#109#0" expanded="true" />
-            <element signature="e#188#189#0" expanded="true" />
-            <element signature="e#234#235#0" expanded="true" />
-            <element signature="e#313#314#0" expanded="true" />
-          </folding>
+          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
         </state>
       </provider>
     </entry>
@@ -827,27 +825,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/Seller.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/smart/NaiveWaiter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
-          <caret line="3" column="46" selection-start-line="3" selection-start-column="46" selection-end-line="3" selection-end-column="46" />
+          <caret line="3" column="21" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="21" />
+          <folding>
+            <element signature="e#108#109#0" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="101" selection-start-line="17" selection-start-column="101" selection-end-line="17" selection-end-column="101" />
+        <state relative-caret-position="225">
+          <caret line="18" column="31" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="105" column="40" lean-forward="true" selection-start-line="105" selection-start-column="40" selection-end-line="105" selection-end-column="40" />
         </state>
       </provider>
     </entry>

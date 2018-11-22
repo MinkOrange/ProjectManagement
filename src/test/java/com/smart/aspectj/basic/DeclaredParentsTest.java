@@ -16,6 +16,7 @@ public class DeclaredParentsTest {
         waiter.greetTo("John");
         waiter.serveTo("John");                     //添加serveTo()方法的测试
         waiter.greetTo("Tom");                                                   //未写完测试code   //现已写完
+        Assert.assertTrue(false);                                       //添加一个让测试失败的断言
         Seller seller = (Seller)waiter;
         seller.sell("Beer","John");
     }
