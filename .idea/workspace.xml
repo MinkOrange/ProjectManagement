@@ -2,9 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9d3f6efb-ace9-448f-8cd8-8b341b19f61a" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Orange.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/NaiveWaiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/NaiveWaiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/NaughtyWaiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/NaughtyWaiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/Seller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/Seller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/SmartSeller.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/SmartSeller.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/Waiter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/Waiter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/anno/ForumService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/anno/ForumService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/anno/NeedTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/anno/NeedTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/aspectj/basic/EnableSellerAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/aspectj/basic/EnableSellerAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/aspectj/example/PreGreetingAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/aspectj/example/PreGreetingAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/smart/aspectj/fun/TestAspect.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/smart/aspectj/fun/TestAspect.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/smart/anno/ToolTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/smart/aspectj/basic/DeclaredParentsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/smart/aspectj/example/AspectConfigTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/smart/aspectj/example/AspectJProxyTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/smart/aspectj/fun/PointcutFunTest.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -32,11 +46,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DeclaredParentsTest.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="DeclaredParentsTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+            <state relative-caret-position="264">
+              <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -44,11 +58,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="396">
-              <caret line="110" column="54" lean-forward="true" selection-start-line="110" selection-start-column="54" selection-end-line="110" selection-end-column="54" />
+            <state relative-caret-position="246">
+              <caret line="102" selection-start-line="102" selection-end-line="102" />
             </state>
           </provider>
         </entry>
@@ -109,8 +123,8 @@
         <option value="$PROJECT_DIR$/src/main/resources/com/smart/aspectj/fun/beans.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/smart/aspectj/fun/PointcutFunTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/smart/NaughtyWaiter.java" />
-        <option value="$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java" />
       </list>
     </option>
   </component>
@@ -314,10 +328,10 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="settings.editor.selected.configurable" value="preferences.toDoOptions" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -546,7 +560,7 @@
       <option name="presentableId" value="Default" />
       <updated>1531101247055</updated>
       <workItem from="1531101250256" duration="13357000" />
-      <workItem from="1542810180376" duration="5206000" />
+      <workItem from="1542810180376" duration="6289000" />
     </task>
     <servers />
   </component>
@@ -583,7 +597,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18563000" />
+    <option name="totallyTimeSpent" value="19646000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
@@ -591,7 +605,7 @@
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" weight="0.3281027" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.32808024" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
@@ -599,12 +613,12 @@
       <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297587" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3295129" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3295129" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23726542" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23726542" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32952926" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -824,20 +838,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="246">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/smart/aspectj/basic/DeclaredParentsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="110" column="54" lean-forward="true" selection-start-line="110" selection-start-column="54" selection-end-line="110" selection-end-column="54" />
+        <state relative-caret-position="264">
+          <caret line="16" column="27" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
