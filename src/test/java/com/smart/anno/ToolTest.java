@@ -5,7 +5,7 @@ import org.testng.annotations.Test;
 import java.lang.reflect.Method;
 
 public class ToolTest {
-    @Test
+    @Test(enabled = false)
     public void tool(){
         Class clazz = ForumService.class;
         Method[] methods = clazz.getDeclaredMethods();
