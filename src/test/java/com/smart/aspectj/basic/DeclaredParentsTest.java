@@ -13,6 +13,7 @@ public class DeclaredParentsTest {
         ApplicationContext ctx = new ClassPathXmlApplicationContext(configPath);
         Waiter waiter = (Waiter)ctx.getBean("waiter");
         waiter.greetTo("John");
+        waiter.serveTo("John");
         Seller seller = (Seller)waiter;
         seller.sell("Beer","John");
     }
