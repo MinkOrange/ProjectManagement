@@ -13,6 +13,7 @@ public class AspectConfigTest {
         Waiter waiter = (Waiter)ctx.getBean("waiter");
         waiter.greetTo("John");
         waiter.serveTo("John");
+        waiter
         waiter.toString();
     }
 }
